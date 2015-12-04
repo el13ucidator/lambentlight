@@ -1,0 +1,40 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Quests
+  url: "/quests/"
+  side: left
+  dropdown:
+  - title: "Road Map"
+    url: "/roadmap/"
+  - title: "Changelog"
+    url: "/changelog/"
+
+- title: Inventory
+  url: "/inventory/"
+  side: left
+  dropdown:
+  - title: "Equipment"
+    url: "/equipment/"
+  - title: "Items"
+    url: "/items/"
+  - title: "Skills"
+    url: "/skills/"
+
+- title: Community
+  url: "/community/"
+  side: left
+  dropdown:
+  - title: "Party"
+    url: "/party/"
+  - title: "Guild"
+    url: "/guild/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+#- title: "Contact"
+  #url: "/contact/"
+  #side: right
