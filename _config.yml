@@ -23,7 +23,7 @@ description: "elucidator: notes on a journey through biomedical science. lambent
 author: el13ucidator
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'https://el13ucidator.github.io/lambent light'
+url: 'https://el13ucidator.github.io/lambentlight'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
