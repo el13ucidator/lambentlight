@@ -5,12 +5,10 @@
 - title: Quests
   url: "/quests/"
   side: left
-  dropdown:
-  - title: "Road Map"
-    url: "/roadmap/"
+  dropdown; 
   - title: "Changelog"
-    url: "/changelog/"
-
+   url: "/changelog"
+   
 - title: Inventory
   url: "/inventory/"
   side: left
