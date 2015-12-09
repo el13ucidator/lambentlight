@@ -5,12 +5,19 @@
 - title: Quests
   url: "/quests/"
   side: left
+<<<<<<< HEAD
   dropdown:
   - title: "Road Map"
     url: "/roadmap/"
   - title: "Changelog"
     url: "/changelog/"
 
+=======
+  dropdown; 
+  - title: "Changelog"
+   url: "/changelog"
+   
+>>>>>>> gh-pages
 - title: Inventory
   url: "/inventory/"
   side: left

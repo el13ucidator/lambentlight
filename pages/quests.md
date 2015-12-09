@@ -5,7 +5,11 @@ subheadline: ""
 teaser: ""
 permalink: "/quests/"
 header:
+<<<<<<< HEAD
    image_fullwidth: "header_roadmap_2.jpg"
+=======
+   image_fullwidth: ""
+>>>>>>> gh-pages
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -20,6 +24,7 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
+<<<<<<< HEAD
 {% include _improve_content.html %}
 
 ## Different Page/Posts Formats   {#formats}
@@ -56,11 +61,42 @@ use in front matter via: `layout: frontpage`
 If you're a video producer or cineast, you'll like the [video template]({{ site.url }}/design/video/). It darkens the layout to black and lets the video stand out full-width.
 
 use in front matter via: `layout: video`
+=======
+
+The purpose of this Quest List is to maintain perspective. All activities should have meaningful goals with short-term <i> and long-term <i> value.
+
+
+## Make Milestone Memories - EXP boost
+
+- [Plan a wedding][1]
+
+- [Plan a honeymoon][2]
+
+- [Plan an annual trip][3]
+
+
+## Increase Odds of Living Long and Prospering - HP boost
+
+- STR
+
+- AGI 
+
+
+## Create Environments to Support Others - MP boost
+
+- [Renovate a kitchen][4]
+
+- [Host a meal][5] once a month
+
+- Take or process [photos][6] (bi)weekly
+
+>>>>>>> gh-pages
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 
+<<<<<<< HEAD
 
 
 ## Style your content with   {#styling}
@@ -324,3 +360,11 @@ I only added one other javascript-module: [`backstretch`][3] by Scott Robbin. Th
  [8]: #
  [9]: #
  [10]: #
+=======
+> Age is an issue of mind over matter. If you don't mind, it doesn't matter.
+<cite>Mark Twain</cite>
+
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+>>>>>>> gh-pages

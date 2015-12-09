@@ -6,7 +6,11 @@
 #
 layout: frontpage
 header:
+<<<<<<< HEAD
   image_fullwidth: header_unsplash_12.jpg
+=======
+  image_fullwidth: spaceflight-finale.jpg
+>>>>>>> gh-pages
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
